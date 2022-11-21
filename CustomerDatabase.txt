@@ -1,0 +1,58 @@
+
+********************************
+  lala
+  Bangkok-Chaingmai
+  9.00 AM
+  1B,9C
+  Price : 900 THB
+
+********************************
+  foam
+  Bangkok-Chaingmai
+  6.00 PM
+  2B,3A
+  Price : 900 THB
+
+********************************
+  lulu
+  Bangkok-Chaingmai
+  6.00 PM
+  6B,4D
+  Price : 900 THB
+
+********************************
+  rat
+  Bangkok-Nakornsrithammarat
+  9.00 AM
+  1B,6D
+  Price : 1000 THB
+
+********************************
+  roro
+  Bangkok-Nakornsrithammarat
+  9.00 AM
+  2B
+  Price : 500 THB
+
+********************************
+  pole
+  Bangkok-Nakornsrithammarat
+  6.00 PM
+  2B,8A,2D
+  Price : 1500 THB
+
+********************************
+  pak
+  Bangkok-Nakornsrithammarat
+  6.00 PM
+  4C,3D
+  Price : 1000 THB
+
+********************************
+
+********************************
+  Gus
+  Bangkok-Chaingmai
+  9.00 AM
+  1A,7B,9D
+  Price : 1350 THB
